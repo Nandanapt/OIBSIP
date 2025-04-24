@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(135deg, #001f3f, #003366);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: #012;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #00ffaa55;
+    text-align: center;
+    width: 300px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #00ffaa;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #00cc88;
+  }
+  
+  a {
+    color: #00ffaa;
+    text-decoration: none;
+  }
+  
